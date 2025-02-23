@@ -1,0 +1,50 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    margin: 20px;
+    background-color: white;
+}
+
+.container {
+    max-width: 850px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid red;
+    border-radius: 40px;
+}
+
+h1 {
+    color: #974411;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #974411;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+.redText {
+    color: red;
+}
+
+.greenText {
+    color: green;
+}
+
+.author {
+    font-family: Arial, sans-serif;
+    text-align: right;
+    font-style: italic;
+    color: black;
+}
